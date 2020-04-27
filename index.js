@@ -96,4 +96,5 @@ const ColorSTDout = (function() {
   return color;
 })();
 
+module.exports = ColorSTDout;
 

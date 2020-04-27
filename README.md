@@ -16,7 +16,7 @@
 
 `npm install ColorSTDout`
 
-`const ColorSTDout = require('ColorSTDout');`
+`const ColorSTDout = require('nodejs-colorstdout');`
 
 ### Usage
 `ColorSTDout('My message', {style: 'bold', fgcolor: 'green', bgcolor: 'blue'})`
