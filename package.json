@@ -1,6 +1,6 @@
 {
-  "name": "colorstdout",
-  "version": "0.0.1",
+  "name": "nodejs-colorstdout",
+  "version": "0.0.2",
   "description": "A very simple and easy to use console.log styling tool.",
   "main": "index.js",
   "scripts": {
