@@ -7,7 +7,6 @@
  \_____\___/|_|\___/|_| |_____/   |_|  |_____/ \___/ \__,_|\__(_) |___/  
                                                                _/ |      
                                                               |__/       
-                                                                v.0.0.1
 ```
 
 ## A very simple and easy to use console.log styling tool.*
@@ -69,7 +68,6 @@ const LOGO = `
  \_____\___/|_|\___/|_| |_____/   |_|  |_____/ \___/ \__,_|\__(_) |___/
                                                                _/ |    
                                                               |__/     
-                                                                v.0.0.1
 `;
 const DESCRIPTION = 'A very simple and easy to use console.log styling tool.\n\nSee documentation at:';
 const URL = 'https://colorstdoutjs.glitch.me'
