@@ -1,0 +1,11 @@
+{
+  "name": "colorstdout",
+  "version": "0.0.1",
+  "description": "A very simple and easy to use console.log styling tool.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leonardo Prates",
+  "license": "ISC"
+}
