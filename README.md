@@ -78,11 +78,6 @@ ColorSTDout(DESCRIPTION, { style: 'bold', fgcolor: 'white', bgcolor: 'blue' });
 ColorSTDout(URL, { style: 'bold', fgcolor: 'green', bgcolor: 'black' });
 ```
 
-#### Notes
-- Currently only tested in Chrome
-- npm package in the works
-
-
 ### See also
 
 - StyleCL.js [https://stylecljs.glitch.me](https://stylecljs.glitch.me)
