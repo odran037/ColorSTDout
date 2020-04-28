@@ -9,7 +9,7 @@
                                                               |__/       
 ```
 
-## A very simple and easy to use console.log styling tool.*
+## A very simple and easy to use console.log styling tool.
 
 ### Installation
 
@@ -70,17 +70,8 @@ const LOGO = `
                                                               |__/     
 `;
 const DESCRIPTION = 'A very simple and easy to use console.log styling tool.\n\nSee documentation at:';
-const URL = 'https://colorstdoutjs.glitch.me'
+const URL = 'https://github.com/odran037/ColorSTDout'
 ColorSTDout('LOGO', {});
 ColorSTDout(DESCRIPTION, { style: 'bold', fgcolor: 'white', bgcolor: 'blue' });
 ColorSTDout(URL, { style: 'bold', fgcolor: 'green', bgcolor: 'black' });
 ```
-
-### See also
-
-- StyleCL.js [https://stylecljs.glitch.me](https://stylecljs.glitch.me)
-
-
----
-
-Made by leonardoprates.github.io

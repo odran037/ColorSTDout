@@ -31,7 +31,7 @@ const ColorSTDout = (function() {
   };
 
   const error = function(param) {
-    throw new Error(`${param}. See documentation. https://colorstdout.glitch.me`);
+    throw new Error(`${param}. See documentation. https://github.com/odran037/ColorSTDout`);
   };
 
   const isEmpty = function(obj) {
